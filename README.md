@@ -1,2 +1,2 @@
-# decision-trees-python lab collage test
+# decision-trees-python lab collage labs
 Implementation of a decision tree in pure python
